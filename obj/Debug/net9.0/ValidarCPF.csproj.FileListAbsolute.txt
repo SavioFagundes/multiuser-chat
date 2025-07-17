@@ -1,0 +1,14 @@
+F:\Projects\ValidarCPF\bin\Debug\net9.0\ValidarCPF.exe
+F:\Projects\ValidarCPF\bin\Debug\net9.0\ValidarCPF.deps.json
+F:\Projects\ValidarCPF\bin\Debug\net9.0\ValidarCPF.runtimeconfig.json
+F:\Projects\ValidarCPF\bin\Debug\net9.0\ValidarCPF.dll
+F:\Projects\ValidarCPF\bin\Debug\net9.0\ValidarCPF.pdb
+F:\Projects\ValidarCPF\obj\Debug\net9.0\ValidarCPF.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\ValidarCPF\obj\Debug\net9.0\ValidarCPF.AssemblyInfoInputs.cache
+F:\Projects\ValidarCPF\obj\Debug\net9.0\ValidarCPF.AssemblyInfo.cs
+F:\Projects\ValidarCPF\obj\Debug\net9.0\ValidarCPF.csproj.CoreCompileInputs.cache
+F:\Projects\ValidarCPF\obj\Debug\net9.0\ValidarCPF.dll
+F:\Projects\ValidarCPF\obj\Debug\net9.0\refint\ValidarCPF.dll
+F:\Projects\ValidarCPF\obj\Debug\net9.0\ValidarCPF.pdb
+F:\Projects\ValidarCPF\obj\Debug\net9.0\ValidarCPF.genruntimeconfig.cache
+F:\Projects\ValidarCPF\obj\Debug\net9.0\ref\ValidarCPF.dll
